@@ -1,0 +1,7 @@
+localhost:80 172.18.0.1 - - [27/Feb/2024:08:55:10 +0000] "GET / HTTP/1.1" 200 1059 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0"
+localhost:80 172.18.0.1 - - [27/Feb/2024:08:55:10 +0000] "GET /assets/css/bulma.min.css HTTP/1.1" 200 22080 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0"
+localhost:80 172.18.0.1 - - [27/Feb/2024:08:55:10 +0000] "GET /assets/images/favicon.svg HTTP/1.1" 200 1165 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0"
+localhost:80 172.18.0.1 - - [27/Feb/2024:08:55:29 +0000] "GET /index.php HTTP/1.1" 200 1059 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0"
+localhost:80 172.18.0.1 - - [27/Feb/2024:08:55:41 +0000] "GET /AiramGuadalupe HTTP/1.1" 301 584 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0"
+localhost:80 172.18.0.1 - - [27/Feb/2024:08:55:41 +0000] "GET /AiramGuadalupe/ HTTP/1.1" 200 771 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0"
+localhost:80 172.18.0.1 - - [27/Feb/2024:08:55:45 +0000] "GET /AiramGuadalupe/FORMULARIO.php?name=1 HTTP/1.1" 200 810 "http://localhost/AiramGuadalupe/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0"
